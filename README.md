@@ -26,4 +26,23 @@ AetherSort is a cross-platform file sorting utility with both a modern GUI and a
 - Python 3.8+
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) (usually included with Python)
 - On Windows, for CLI:
-- pip install windows-curses
+```pip
+pip install windows-curses
+```
+
+### Clone the Repository
+
+```sh
+git clone https://github.com/shhreyuuFW/AetherSort.git
+cd AetherSort
+```
+## Usage
+### GUI
+Run the GUI version:
+#### python [file_sorter.py](http://_vscodecontentref_/0) or run the .exe file from "dist" folder.
+
+### CLI
+Run the CLI version:
+#### (in windows terminal) python [file_sorter_cli.py](http://_vscodecontentref_/1)
+
+
