@@ -1,0 +1,531 @@
+2025-05-22 22:20:56,999 - INFO - Source directory set to: C:/Users/shrey/OneDrive/Documents/TCS[1]/TCS
+2025-05-22 22:21:03,775 - INFO - Added filter: ByExtension_.jpg_.png_.gif
+2025-05-22 22:21:03,775 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt
+2025-05-22 22:21:03,775 - INFO - Added filter: LargeFiles
+2025-05-22 22:21:03,785 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\!!Social Media handles.doc to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\!!Social Media handles.doc
+2025-05-22 22:21:03,790 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-(www.entrance-exam.net)-TCS PAPER OF 2011.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-(www.entrance-exam.net)-TCS PAPER OF 2011.pdf
+2025-05-22 22:21:03,790 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-451 sample Questions(TCS).doc to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-451 sample Questions(TCS).doc
+2025-05-22 22:21:03,790 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 1.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 1.docx
+2025-05-22 22:21:03,796 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 10.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 10.docx
+2025-05-22 22:21:03,796 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 11.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 11.docx
+2025-05-22 22:21:03,796 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 12.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 12.pdf
+2025-05-22 22:21:03,796 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 2.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 2.docx
+2025-05-22 22:21:03,801 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 3.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 3.docx
+2025-05-22 22:21:03,801 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 4.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 4.docx
+2025-05-22 22:21:03,801 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 5.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 5.docx
+2025-05-22 22:21:03,801 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 6.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 6.docx
+2025-05-22 22:21:03,806 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 7.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 7.docx
+2025-05-22 22:21:03,806 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 8.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 8.docx
+2025-05-22 22:21:03,806 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\(www.entrance-exam.net)-TCS Placement Sample Paper 9.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\(www.entrance-exam.net)-TCS Placement Sample Paper 9.docx
+2025-05-22 22:21:03,806 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\2385-tcsinterviewquestionspdf.doc to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\2385-tcsinterviewquestionspdf.doc
+2025-05-22 22:21:03,811 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\2447-tcssamplequestions.doc to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\2447-tcssamplequestions.doc
+2025-05-22 22:21:03,811 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\2454-tcs-placement-paper.doc to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\2454-tcs-placement-paper.doc
+2025-05-22 22:21:03,811 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\2495-451-tcs-aptitude-questions.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\2495-451-tcs-aptitude-questions.pdf
+2025-05-22 22:21:03,817 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\2497-tcs-latest-2010-placement-paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\2497-tcs-latest-2010-placement-paper.pdf
+2025-05-22 22:21:03,817 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\downloadmela.com_-TCS-Fresher-Job-Interview-Paper-Pattern-2011.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\downloadmela.com_-TCS-Fresher-Job-Interview-Paper-Pattern-2011.pdf
+2025-05-22 22:21:03,817 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\downloadmela.com_-TCS-Paper-Aptitude-Numerical-GMRIT-Engineering-College-Rajam-27-January-2011-Copy-3-.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\downloadmela.com_-TCS-Paper-Aptitude-Numerical-GMRIT-Engineering-College-Rajam-27-January-2011-Copy-3-.pdf
+2025-05-22 22:21:03,821 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\downloadmela.com_-TCS-Paper-Whole-Testpaper-Bhopal-13-January-2011.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\downloadmela.com_-TCS-Paper-Whole-Testpaper-Bhopal-13-January-2011.pdf
+2025-05-22 22:21:03,821 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\downloadmela.com_-TCS-Paper-Whole-Testpaper-Kalyani-Govt.-Engg.-College-7-January-2011.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\downloadmela.com_-TCS-Paper-Whole-Testpaper-Kalyani-Govt.-Engg.-College-7-January-2011.pdf
+2025-05-22 22:21:03,821 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\downloadmela.com_-TCS-Paper-Whole-Testpaper-M.M.M-Engineering-College-Gorakhpur-24-January-2011.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\downloadmela.com_-TCS-Paper-Whole-Testpaper-M.M.M-Engineering-College-Gorakhpur-24-January-2011.pdf
+2025-05-22 22:21:03,821 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\downloadmela.com_-TCS-Paper-Whole-Testpaper-Technocrats-Institute-Of-Technology-Bhopal-15-January-2011-2-.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\downloadmela.com_-TCS-Paper-Whole-Testpaper-Technocrats-Institute-Of-Technology-Bhopal-15-January-2011-2-.pdf
+2025-05-22 22:21:03,821 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\downloadmela.com_-TCS-Paper-Whole-Testpaper-Technocrats-Institute-Of-Technology-Bhopal-15-January-2011-4-.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\downloadmela.com_-TCS-Paper-Whole-Testpaper-Technocrats-Institute-Of-Technology-Bhopal-15-January-2011-4-.pdf
+2025-05-22 22:21:03,828 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\downloadmela.com_-TCS-Paper-Whole-Testpaper-TIT-BHOPAL-15-January-2011.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\downloadmela.com_-TCS-Paper-Whole-Testpaper-TIT-BHOPAL-15-January-2011.pdf
+2025-05-22 22:21:03,828 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\Pro TCS Technical Paid Paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\Pro TCS Technical Paid Paper.pdf
+2025-05-22 22:21:03,828 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\Tcs 2017&18-easy level.txt to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\Tcs 2017&18-easy level.txt
+2025-05-22 22:21:03,831 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Answer.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Answer.pdf
+2025-05-22 22:21:03,831 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\Tcs apptitude.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\Tcs apptitude.pdf
+2025-05-22 22:21:03,831 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Aptitude Paid-1.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Aptitude Paid-1.pdf
+2025-05-22 22:21:03,831 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Aptitude Paid.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Aptitude Paid.pdf
+2025-05-22 22:21:03,831 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\Tcs coding.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\Tcs coding.pdf
+2025-05-22 22:21:03,838 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\Tcs english.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\Tcs english.pdf
+2025-05-22 22:21:03,838 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs iinterview questions.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs iinterview questions.docx
+2025-05-22 22:21:03,841 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja - Quantitative Aptitude_2.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja - Quantitative Aptitude_2.docx
+2025-05-22 22:21:03,841 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja - Quantitative Aptitude_3(R).docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja - Quantitative Aptitude_3(R).docx
+2025-05-22 22:21:03,841 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja - Quantitative Aptitude_4.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja - Quantitative Aptitude_4.docx
+2025-05-22 22:21:03,841 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja - Quantitative Aptitude_5.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja - Quantitative Aptitude_5.docx
+2025-05-22 22:21:03,841 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja - Quantitative Aptitude_6.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja - Quantitative Aptitude_6.docx
+2025-05-22 22:21:03,841 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja - Verbal Ability_2.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja - Verbal Ability_2.docx
+2025-05-22 22:21:03,849 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja - Verbal Ability_3.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja - Verbal Ability_3.docx
+2025-05-22 22:21:03,849 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja - Verbal Ability_4.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja - Verbal Ability_4.docx
+2025-05-22 22:21:03,851 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja - Verbal Ability_5(R).docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja - Verbal Ability_5(R).docx
+2025-05-22 22:21:03,851 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja - Verbal Ability_6(R).docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja - Verbal Ability_6(R).docx
+2025-05-22 22:21:03,851 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs ninja 1 text paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs ninja 1 text paper.pdf
+2025-05-22 22:21:03,851 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs ninja 2 text paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs ninja 2 text paper.pdf
+2025-05-22 22:21:03,851 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs ninja 3 text paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs ninja 3 text paper.pdf
+2025-05-22 22:21:03,851 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs ninja 4 text paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs ninja 4 text paper.pdf
+2025-05-22 22:21:03,851 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs ninja 5text paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs ninja 5text paper.pdf
+2025-05-22 22:21:03,860 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs ninja 6text paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs ninja 6text paper.pdf
+2025-05-22 22:21:03,862 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs ninja 7 text paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs ninja 7 text paper.pdf
+2025-05-22 22:21:03,862 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs ninja 8 text paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs ninja 8 text paper.pdf
+2025-05-22 22:21:03,862 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs ninja 9text paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs ninja 9text paper.pdf
+2025-05-22 22:21:03,862 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Ninja Most Repeated Questions from past years.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Ninja Most Repeated Questions from past years.pdf
+2025-05-22 22:21:03,862 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs nqt mock test solutions.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs nqt mock test solutions.pdf
+2025-05-22 22:21:03,862 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs paper 2015.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs paper 2015.pdf
+2025-05-22 22:21:03,862 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS PDF 2..pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS PDF 2..pdf
+2025-05-22 22:21:03,870 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Placement Paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Placement Paper.pdf
+2025-05-22 22:21:03,872 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Placement Papers 1.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Placement Papers 1.pdf
+2025-05-22 22:21:03,872 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Placement Papers 10.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Placement Papers 10.pdf
+2025-05-22 22:21:03,872 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Placement Papers 11.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Placement Papers 11.pdf
+2025-05-22 22:21:03,872 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Placement Papers 2.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Placement Papers 2.pdf
+2025-05-22 22:21:03,872 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Placement Papers 3.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Placement Papers 3.pdf
+2025-05-22 22:21:03,872 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Placement Papers 4.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Placement Papers 4.pdf
+2025-05-22 22:21:03,872 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Placement Papers with Answers (Technical Round) - Kolkata , 13-Jan-2011-1.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Placement Papers with Answers (Technical Round) - Kolkata , 13-Jan-2011-1.pdf
+2025-05-22 22:21:03,872 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Placement Papers with Answers (Technical Round) - Kolkata , 13-Jan-2011.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Placement Papers with Answers (Technical Round) - Kolkata , 13-Jan-2011.pdf
+2025-05-22 22:21:03,882 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS QUESTION.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS QUESTION.pdf
+2025-05-22 22:21:03,882 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Technical Paid Paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Technical Paid Paper.pdf
+2025-05-22 22:21:03,882 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS Technical Questions.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS Technical Questions.docx
+2025-05-22 22:21:03,882 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\Tcs technical.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\Tcs technical.pdf
+2025-05-22 22:21:03,882 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-Arthematic-Placement-Papers.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-Arthematic-Placement-Papers.pdf
+2025-05-22 22:21:03,882 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-Coding-Programming-Questions.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-Coding-Programming-Questions.pdf
+2025-05-22 22:21:03,882 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-Model-Question-Papers.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-Model-Question-Papers.pdf
+2025-05-22 22:21:03,882 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs-ninja-quants-primer.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs-ninja-quants-primer.pdf
+2025-05-22 22:21:03,892 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs-nrr.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs-nrr.pdf
+2025-05-22 22:21:03,892 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-Placement-Aptitude-Papers.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-Placement-Aptitude-Papers.pdf
+2025-05-22 22:21:03,892 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-Placement-Coding-Papers.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-Placement-Coding-Papers.pdf
+2025-05-22 22:21:03,892 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-Placement-Email-Writing-Papers.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-Placement-Email-Writing-Papers.pdf
+2025-05-22 22:21:03,897 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\Tcs-Placement-Papers-1.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\Tcs-Placement-Papers-1.pdf
+2025-05-22 22:21:03,897 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\Tcs-Placement-Papers-2.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\Tcs-Placement-Papers-2.pdf
+2025-05-22 22:21:03,897 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-Placement-Papers.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-Placement-Papers.pdf
+2025-05-22 22:21:03,897 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-Previous-Year-Placement-Question-Paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-Previous-Year-Placement-Question-Paper.pdf
+2025-05-22 22:21:03,902 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-Quantitative-Aptitude-Question-Paper_www-matterhere-com_NRR.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-Quantitative-Aptitude-Question-Paper_www-matterhere-com_NRR.pdf
+2025-05-22 22:21:03,902 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-Sample-paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-Sample-paper.pdf
+2025-05-22 22:21:03,902 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS-TQA_www-matterhere-com_NRR.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS-TQA_www-matterhere-com_NRR.pdf
+2025-05-22 22:21:03,902 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS17-02T.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS17-02T.docx
+2025-05-22 22:21:03,907 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS17-03T.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS17-03T.docx
+2025-05-22 22:21:03,908 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS17-04T(R).docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS17-04T(R).docx
+2025-05-22 22:21:03,908 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS17-05T.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS17-05T.docx
+2025-05-22 22:21:03,910 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS17-06T.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS17-06T.docx
+2025-05-22 22:21:03,910 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs2017&2018.txt to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs2017&2018.txt
+2025-05-22 22:21:03,913 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcsaptitude.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcsaptitude.pdf
+2025-05-22 22:21:03,913 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcspattern.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcspattern.pdf
+2025-05-22 22:21:03,913 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcsplacement-paper-2010.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcsplacement-paper-2010.pdf
+2025-05-22 22:21:03,913 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS_02T.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS_02T.docx
+2025-05-22 22:21:03,913 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS_03T.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS_03T.docx
+2025-05-22 22:21:03,913 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS_04C.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS_04C.docx
+2025-05-22 22:21:03,913 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS_05C.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS_05C.docx
+2025-05-22 22:21:03,924 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS_06C.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS_06C.docx
+2025-05-22 22:21:03,924 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS_NQT_Aptitude.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS_NQT_Aptitude.pdf
+2025-05-22 22:21:03,924 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\TCS_Previous_Year_Paper.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\TCS_Previous_Year_Paper.pdf
+2025-05-22 22:21:03,924 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\tcs_programs.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\tcs_programs.pdf
+2025-05-22 22:21:03,924 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\Technical-Subjects-Placement-Papers.pdf to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\Technical-Subjects-Placement-Papers.pdf
+2025-05-22 22:21:03,924 - INFO - Moved C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\Time-Work only questions.docx to C:\Users\shrey\OneDrive\Documents\TCS[1]\TCS\ByExtension_.pdf_.doc_.docx_.txt\Time-Work only questions.docx
+2025-05-22 22:24:38,830 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> Images
+2025-05-22 22:24:38,830 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 22:24:38,830 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> Documents
+2025-05-22 22:24:38,830 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 22:24:38,830 - INFO - Added filter: LargeFiles -> LargeFiles
+2025-05-22 22:24:38,834 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 22:24:38,834 - INFO - Added filter: RecentFiles -> RecentFiles
+2025-05-22 22:24:38,834 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 22:24:38,834 - INFO - Added filter: Custom -> Backups
+2025-05-22 22:24:38,834 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 22:25:09,145 - INFO - Source directory set to: C:/Users/shrey/Downloads
+2025-05-22 22:25:11,831 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> Images
+2025-05-22 22:25:11,831 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> Documents
+2025-05-22 22:25:11,831 - INFO - Added filter: LargeFiles -> LargeFiles
+2025-05-22 22:25:11,831 - INFO - Skipped C:\Users\shrey\Downloads\127_0_0_1.sql: no matching filter
+2025-05-22 22:25:11,831 - INFO - Skipped C:\Users\shrey\Downloads\20230803_182018.heic: no matching filter
+2025-05-22 22:25:11,831 - INFO - Skipped C:\Users\shrey\Downloads\6b00bca4-0210-4cbc-8de8-de59e901e6bf.jpeg: no matching filter
+2025-05-22 22:25:11,834 - INFO - Moved C:\Users\shrey\Downloads\adminlevel1 (1).jpg to C:\Users\shrey\Downloads\Images\adminlevel1 (1).jpg
+2025-05-22 22:25:11,845 - INFO - Moved C:\Users\shrey\Downloads\adminlevel1.jpg to C:\Users\shrey\Downloads\Images\adminlevel1.jpg
+2025-05-22 22:25:11,845 - INFO - Moved C:\Users\shrey\Downloads\adminlevel2 (1).jpg to C:\Users\shrey\Downloads\Images\adminlevel2 (1).jpg
+2025-05-22 22:25:11,845 - INFO - Skipped C:\Users\shrey\Downloads\adminlevel2.drawio: no matching filter
+2025-05-22 22:25:11,845 - INFO - Moved C:\Users\shrey\Downloads\adminlevel2.jpg to C:\Users\shrey\Downloads\Images\adminlevel2.jpg
+2025-05-22 22:25:11,845 - INFO - Moved C:\Users\shrey\Downloads\admission_letter_compressed.pdf to C:\Users\shrey\Downloads\Documents\admission_letter_compressed.pdf
+2025-05-22 22:25:11,850 - INFO - Moved C:\Users\shrey\Downloads\AI-U3-U4.pdf to C:\Users\shrey\Downloads\Documents\AI-U3-U4.pdf
+2025-05-22 22:25:11,850 - INFO - Skipped C:\Users\shrey\Downloads\archive.zip: no matching filter
+2025-05-22 22:25:11,852 - INFO - Moved C:\Users\shrey\Downloads\Blank diagram.png to C:\Users\shrey\Downloads\Images\Blank diagram.png
+2025-05-22 22:25:11,852 - INFO - Skipped C:\Users\shrey\Downloads\bootstrap-5.3.6-dist.zip: no matching filter
+2025-05-22 22:25:11,852 - INFO - Moved C:\Users\shrey\Downloads\burpsuite_community_windows-x64_v2025_3_3.exe to C:\Users\shrey\Downloads\LargeFiles\burpsuite_community_windows-x64_v2025_3_3.exe
+2025-05-22 22:25:11,852 - INFO - Skipped C:\Users\shrey\Downloads\challenge (1).zip: no matching filter
+2025-05-22 22:25:11,852 - INFO - Skipped C:\Users\shrey\Downloads\challenge.zip: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\commit_iss.zip: no matching filter
+2025-05-22 22:25:11,855 - INFO - Moved C:\Users\shrey\Downloads\Cybersecurity Projects.pdf to C:\Users\shrey\Downloads\Documents\Cybersecurity Projects.pdf
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\decode_cookie.py: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\desktop.ini: no matching filter
+2025-05-22 22:25:11,855 - INFO - Moved C:\Users\shrey\Downloads\DT20256481111_Application (2).pdf to C:\Users\shrey\Downloads\Documents\DT20256481111_Application (2).pdf
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\error (1).log: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\error (2).log: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\error (3).log: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\error (4).log: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\error (5).log: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\error (6).log: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\error (7).log: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\error.log: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\filter_pass.js: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\fixme1.tar.gz: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\fixme2.tar.gz: no matching filter
+2025-05-22 22:25:11,855 - INFO - Skipped C:\Users\shrey\Downloads\fixme3.tar.gz: no matching filter
+2025-05-22 22:25:11,862 - INFO - Moved C:\Users\shrey\Downloads\gh_2.72.0_windows_amd64.msi to C:\Users\shrey\Downloads\LargeFiles\gh_2.72.0_windows_amd64.msi
+2025-05-22 22:25:11,862 - INFO - Skipped C:\Users\shrey\Downloads\heapdump-1745847090883.heapsnapshot: no matching filter
+2025-05-22 22:25:11,862 - INFO - Skipped C:\Users\shrey\Downloads\Intertone records logo.jpeg: no matching filter
+2025-05-22 22:25:11,862 - INFO - Skipped C:\Users\shrey\Downloads\Iris-Installer-3.2.1 (1).jar: no matching filter
+2025-05-22 22:25:11,862 - INFO - Skipped C:\Users\shrey\Downloads\Iris-Installer-3.2.1.jar: no matching filter
+2025-05-22 22:25:11,866 - INFO - Moved C:\Users\shrey\Downloads\kali-linux-2025.1a-installer-amd64.iso to C:\Users\shrey\Downloads\LargeFiles\kali-linux-2025.1a-installer-amd64.iso
+2025-05-22 22:25:11,868 - INFO - Moved C:\Users\shrey\Downloads\kali-linux-2025.1a-live-amd64.iso to C:\Users\shrey\Downloads\LargeFiles\kali-linux-2025.1a-live-amd64.iso
+2025-05-22 22:25:11,868 - INFO - Moved C:\Users\shrey\Downloads\level1client (1).jpg to C:\Users\shrey\Downloads\Images\level1client (1).jpg
+2025-05-22 22:25:11,870 - INFO - Moved C:\Users\shrey\Downloads\level1client (2).jpg to C:\Users\shrey\Downloads\Images\level1client (2).jpg
+2025-05-22 22:25:11,870 - INFO - Moved C:\Users\shrey\Downloads\level1client.jpg to C:\Users\shrey\Downloads\Images\level1client.jpg
+2025-05-22 22:25:11,870 - INFO - Moved C:\Users\shrey\Downloads\level2client (1).jpg to C:\Users\shrey\Downloads\Images\level2client (1).jpg
+2025-05-22 22:25:11,873 - INFO - Skipped C:\Users\shrey\Downloads\level2client.drawio: no matching filter
+2025-05-22 22:25:11,873 - INFO - Moved C:\Users\shrey\Downloads\level2client.jpg to C:\Users\shrey\Downloads\Images\level2client.jpg
+2025-05-22 22:25:11,875 - INFO - Skipped C:\Users\shrey\Downloads\Modrinth App_0.9.3_x64-setup.exe: no matching filter
+2025-05-22 22:25:11,875 - INFO - Skipped C:\Users\shrey\Downloads\northen_treks_db (1).sql: no matching filter
+2025-05-22 22:25:11,875 - INFO - Skipped C:\Users\shrey\Downloads\northen_treks_db (2).sql: no matching filter
+2025-05-22 22:25:11,876 - INFO - Moved C:\Users\shrey\Downloads\northen_treks_db.doc to C:\Users\shrey\Downloads\Documents\northen_treks_db.doc
+2025-05-22 22:25:11,876 - INFO - Skipped C:\Users\shrey\Downloads\northen_treks_db.ods: no matching filter
+2025-05-22 22:25:11,878 - INFO - Moved C:\Users\shrey\Downloads\northen_treks_db.pdf to C:\Users\shrey\Downloads\Documents\northen_treks_db.pdf
+2025-05-22 22:25:11,878 - INFO - Skipped C:\Users\shrey\Downloads\northen_treks_db.php: no matching filter
+2025-05-22 22:25:11,878 - INFO - Skipped C:\Users\shrey\Downloads\northen_treks_db.sql: no matching filter
+2025-05-22 22:25:11,878 - INFO - Moved C:\Users\shrey\Downloads\OllamaSetup.exe to C:\Users\shrey\Downloads\LargeFiles\OllamaSetup.exe
+2025-05-22 22:25:11,878 - INFO - Skipped C:\Users\shrey\Downloads\platform-tools-latest-windows.zip: no matching filter
+2025-05-22 22:25:11,878 - INFO - Moved C:\Users\shrey\Downloads\prjsrc.pdf to C:\Users\shrey\Downloads\Documents\prjsrc.pdf
+2025-05-22 22:25:11,883 - INFO - Moved C:\Users\shrey\Downloads\red.png to C:\Users\shrey\Downloads\Images\red.png
+2025-05-22 22:25:11,883 - INFO - Moved C:\Users\shrey\Downloads\Regolamento_didattico_LM_CYBERSECURITY_2023_2024.pdf to C:\Users\shrey\Downloads\Documents\Regolamento_didattico_LM_CYBERSECURITY_2023_2024.pdf
+2025-05-22 22:25:11,885 - INFO - Moved C:\Users\shrey\Downloads\rustup-init.exe to C:\Users\shrey\Downloads\LargeFiles\rustup-init.exe
+2025-05-22 22:25:11,885 - INFO - Skipped C:\Users\shrey\Downloads\spacedesk Installer.exe: no matching filter
+2025-05-22 22:25:11,885 - INFO - Skipped C:\Users\shrey\Downloads\spacedesk_driver_Win_10_64_v2142.msi: no matching filter
+2025-05-22 22:25:11,885 - INFO - Skipped C:\Users\shrey\Downloads\tailscale-setup-1.80.2.exe: no matching filter
+2025-05-22 22:25:11,885 - INFO - Skipped C:\Users\shrey\Downloads\takeout-20250521T120150Z-1-001.zip: no matching filter
+2025-05-22 22:25:11,887 - INFO - Moved C:\Users\shrey\Downloads\test_payload.txt to C:\Users\shrey\Downloads\Documents\test_payload.txt
+2025-05-22 22:25:11,887 - INFO - Skipped C:\Users\shrey\Downloads\treks (1).sql: no matching filter
+2025-05-22 22:25:11,887 - INFO - Skipped C:\Users\shrey\Downloads\treks.sql: no matching filter
+2025-05-22 22:25:11,889 - INFO - Moved C:\Users\shrey\Downloads\treks.txt to C:\Users\shrey\Downloads\Documents\treks.txt
+2025-05-22 22:25:11,889 - INFO - Moved C:\Users\shrey\Downloads\Untitled Workspace.png to C:\Users\shrey\Downloads\Images\Untitled Workspace.png
+2025-05-22 22:25:11,892 - INFO - Moved C:\Users\shrey\Downloads\Untitled.jpg to C:\Users\shrey\Downloads\Images\Untitled.jpg
+2025-05-22 22:25:11,893 - INFO - Moved C:\Users\shrey\Downloads\VatsuHSCCerti_merged_compressed.pdf to C:\Users\shrey\Downloads\Documents\VatsuHSCCerti_merged_compressed.pdf
+2025-05-22 22:25:11,895 - INFO - Moved C:\Users\shrey\Downloads\VID20250417205626.mp4 to C:\Users\shrey\Downloads\LargeFiles\VID20250417205626.mp4
+2025-05-22 22:25:11,895 - INFO - Moved C:\Users\shrey\Downloads\VID20250417205953.mp4 to C:\Users\shrey\Downloads\LargeFiles\VID20250417205953.mp4
+2025-05-22 22:25:11,898 - INFO - Moved C:\Users\shrey\Downloads\VID20250417210136.mp4 to C:\Users\shrey\Downloads\LargeFiles\VID20250417210136.mp4
+2025-05-22 22:25:11,898 - INFO - Moved C:\Users\shrey\Downloads\Wireshark-4.4.5-x64.exe to C:\Users\shrey\Downloads\LargeFiles\Wireshark-4.4.5-x64.exe
+2025-05-22 22:25:54,501 - INFO - Saved config to config.json
+2025-05-22 22:35:24,482 - INFO - Loaded folder prefix: AETH_
+2025-05-22 22:35:24,482 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 22:35:24,482 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 22:35:24,482 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 22:35:24,482 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 22:35:24,482 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 22:35:24,482 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 22:35:24,482 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 22:35:24,482 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 22:35:24,482 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 22:35:24,482 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 22:35:47,646 - INFO - Source directory set to: C:/Users/shrey/Downloads/NFAT
+2025-05-22 22:35:56,489 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 22:35:56,489 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 22:35:56,489 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 22:35:56,489 - INFO - Moved C:\Users\shrey\Downloads\NFAT\120-RULES-OF-GRAMMAR-BY-NIMISHA-MAM-pdf.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\120-RULES-OF-GRAMMAR-BY-NIMISHA-MAM-pdf.pdf
+2025-05-22 22:35:56,498 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Assembly Language MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Assembly Language MCQ.pdf
+2025-05-22 22:35:56,507 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Assembly Language NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Assembly Language NFAT.pdf
+2025-05-22 22:35:56,507 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Assembly_lang1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Assembly_lang1.pdf
+2025-05-22 22:35:56,510 - INFO - Moved C:\Users\shrey\Downloads\NFAT\c MCQ-1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\c MCQ-1.pdf
+2025-05-22 22:35:56,510 - INFO - Moved C:\Users\shrey\Downloads\NFAT\c MCQ-2.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\c MCQ-2.pdf
+2025-05-22 22:35:56,510 - INFO - Moved C:\Users\shrey\Downloads\NFAT\c NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\c NFAT.pdf
+2025-05-22 22:35:56,510 - INFO - Moved C:\Users\shrey\Downloads\NFAT\c++ MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\c++ MCQ.pdf
+2025-05-22 22:35:56,510 - INFO - Moved C:\Users\shrey\Downloads\NFAT\CN_notes.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\CN_notes.pdf
+2025-05-22 22:35:56,510 - INFO - Moved C:\Users\shrey\Downloads\NFAT\coa MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\coa MCQ.pdf
+2025-05-22 22:35:56,517 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Computer Organization and Architecture.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Computer Organization and Architecture.pdf
+2025-05-22 22:35:56,517 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Data structure MCQ_s.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Data structure MCQ_s.pdf
+2025-05-22 22:35:56,521 - INFO - Moved C:\Users\shrey\Downloads\NFAT\data structure NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\data structure NFAT.pdf
+2025-05-22 22:35:56,521 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Database1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Database1.pdf
+2025-05-22 22:35:56,521 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Data_Structure1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Data_Structure1.pdf
+2025-05-22 22:35:56,521 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Data_Structure1MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Data_Structure1MCQ.pdf
+2025-05-22 22:35:56,521 - INFO - Moved C:\Users\shrey\Downloads\NFAT\dbms MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\dbms MCQ.pdf
+2025-05-22 22:35:56,521 - INFO - Moved C:\Users\shrey\Downloads\NFAT\dbms NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\dbms NFAT.pdf
+2025-05-22 22:35:56,528 - INFO - Moved C:\Users\shrey\Downloads\NFAT\digital electronics MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\digital electronics MCQ.pdf
+2025-05-22 22:35:56,528 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Digital Electronics NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Digital Electronics NFAT.pdf
+2025-05-22 22:35:56,532 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Digital Logic Design NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Digital Logic Design NFAT.pdf
+2025-05-22 22:35:56,532 - INFO - Moved C:\Users\shrey\Downloads\NFAT\digital logic design.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\digital logic design.pdf
+2025-05-22 22:35:56,532 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Emerging Trends and Technology NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Emerging Trends and Technology NFAT.pdf
+2025-05-22 22:35:56,532 - INFO - Moved C:\Users\shrey\Downloads\NFAT\emerging Trends MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\emerging Trends MCQ.pdf
+2025-05-22 22:35:56,532 - INFO - Moved C:\Users\shrey\Downloads\NFAT\English grammar NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\English grammar NFAT.pdf
+2025-05-22 22:35:56,538 - INFO - Moved C:\Users\shrey\Downloads\NFAT\internet technology MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\internet technology MCQ.pdf
+2025-05-22 22:35:56,538 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Internet Technology NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Internet Technology NFAT.pdf
+2025-05-22 22:35:56,538 - INFO - Moved C:\Users\shrey\Downloads\NFAT\IP Address.jpg to C:\Users\shrey\Downloads\NFAT\AETH_Images\IP Address.jpg
+2025-05-22 22:35:56,538 - INFO - Moved C:\Users\shrey\Downloads\NFAT\java MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\java MCQ.pdf
+2025-05-22 22:35:56,543 - INFO - Moved C:\Users\shrey\Downloads\NFAT\java NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\java NFAT.pdf
+2025-05-22 22:35:56,543 - INFO - Moved C:\Users\shrey\Downloads\NFAT\mathematics all NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\mathematics all NFAT.pdf
+2025-05-22 22:35:56,543 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Mock1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Mock1.pdf
+2025-05-22 22:35:56,543 - INFO - Moved C:\Users\shrey\Downloads\NFAT\mscmtech NFAT 2023 qp.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\mscmtech NFAT 2023 qp.pdf
+2025-05-22 22:35:56,543 - INFO - Moved C:\Users\shrey\Downloads\NFAT\MscMtech NFAT 2024 paper with sol.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\MscMtech NFAT 2024 paper with sol.pdf
+2025-05-22 22:35:56,548 - INFO - Moved C:\Users\shrey\Downloads\NFAT\mscmtech nfat answer key.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\mscmtech nfat answer key.pdf
+2025-05-22 22:35:56,548 - INFO - Moved C:\Users\shrey\Downloads\NFAT\net MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\net MCQ.pdf
+2025-05-22 22:35:56,548 - INFO - Moved C:\Users\shrey\Downloads\NFAT\net NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\net NFAT.pdf
+2025-05-22 22:35:56,548 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Networkin1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Networkin1.pdf
+2025-05-22 22:35:56,553 - INFO - Moved C:\Users\shrey\Downloads\NFAT\networking MCQ -2.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\networking MCQ -2.pdf
+2025-05-22 22:35:56,553 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Networking MCQ_s.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Networking MCQ_s.pdf
+2025-05-22 22:35:56,553 - INFO - Moved C:\Users\shrey\Downloads\NFAT\networking NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\networking NFAT.pdf
+2025-05-22 22:35:56,553 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Networking1MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Networking1MCQ.pdf
+2025-05-22 22:35:56,559 - INFO - Moved C:\Users\shrey\Downloads\NFAT\NFAT 2025 mock 1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\NFAT 2025 mock 1.pdf
+2025-05-22 22:35:56,559 - INFO - Moved C:\Users\shrey\Downloads\NFAT\NFAT 2025 mock 2.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\NFAT 2025 mock 2.pdf
+2025-05-22 22:35:56,559 - INFO - Moved C:\Users\shrey\Downloads\NFAT\NFAT 2025 mock 3.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\NFAT 2025 mock 3.pdf
+2025-05-22 22:35:56,559 - INFO - Moved C:\Users\shrey\Downloads\NFAT\NFAT 2025 mock 4.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\NFAT 2025 mock 4.pdf
+2025-05-22 22:35:56,564 - INFO - Moved C:\Users\shrey\Downloads\NFAT\NFAT 2025 mock 5.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\NFAT 2025 mock 5.pdf
+2025-05-22 22:35:56,564 - INFO - Moved C:\Users\shrey\Downloads\NFAT\operating system 2 NFAT (1).pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\operating system 2 NFAT (1).pdf
+2025-05-22 22:35:56,564 - INFO - Moved C:\Users\shrey\Downloads\NFAT\operating system 2 NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\operating system 2 NFAT.pdf
+2025-05-22 22:35:56,564 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Operating system mcqs 2 (1).pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Operating system mcqs 2 (1).pdf
+2025-05-22 22:35:56,564 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Operating system mcqs 2.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Operating system mcqs 2.pdf
+2025-05-22 22:35:56,569 - INFO - Moved C:\Users\shrey\Downloads\NFAT\operating system NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\operating system NFAT.pdf
+2025-05-22 22:35:56,569 - INFO - Moved C:\Users\shrey\Downloads\NFAT\OS mcq NFAT (1).pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\OS mcq NFAT (1).pdf
+2025-05-22 22:35:56,569 - INFO - Moved C:\Users\shrey\Downloads\NFAT\OS mcq NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\OS mcq NFAT.pdf
+2025-05-22 22:35:56,569 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Programmig_c1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Programmig_c1.pdf
+2025-05-22 22:35:56,575 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Programming_java1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Programming_java1.pdf
+2025-05-22 22:35:56,575 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Programmiy_.net1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Programmiy_.net1.pdf
+2025-05-22 22:35:56,575 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 1.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 1.pdf
+2025-05-22 22:35:56,575 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 10.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 10.pdf
+2025-05-22 22:35:56,580 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 11.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 11.pdf
+2025-05-22 22:35:56,580 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 12.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 12.pdf
+2025-05-22 22:35:56,580 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 13.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 13.pdf
+2025-05-22 22:35:56,580 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 14.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 14.pdf
+2025-05-22 22:35:56,580 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 15.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 15.pdf
+2025-05-22 22:35:56,585 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 16.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 16.pdf
+2025-05-22 22:35:56,585 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 17.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 17.pdf
+2025-05-22 22:35:56,585 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 18.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 18.pdf
+2025-05-22 22:35:56,585 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 2.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 2.pdf
+2025-05-22 22:35:56,585 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 3.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 3.pdf
+2025-05-22 22:35:56,585 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 4.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 4.pdf
+2025-05-22 22:35:56,585 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 5.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 5.pdf
+2025-05-22 22:35:56,594 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 6.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 6.pdf
+2025-05-22 22:35:56,596 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 7.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 7.pdf
+2025-05-22 22:35:56,596 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 8.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 8.pdf
+2025-05-22 22:35:56,596 - INFO - Moved C:\Users\shrey\Downloads\NFAT\reasoning and aptitude part - 9.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\reasoning and aptitude part - 9.pdf
+2025-05-22 22:35:56,596 - INFO - Moved C:\Users\shrey\Downloads\NFAT\software engineering MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\software engineering MCQ.pdf
+2025-05-22 22:35:56,596 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Software Engineering NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Software Engineering NFAT.pdf
+2025-05-22 22:35:56,596 - INFO - Moved C:\Users\shrey\Downloads\NFAT\system analysis and design MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\system analysis and design MCQ.pdf
+2025-05-22 22:35:56,596 - INFO - Moved C:\Users\shrey\Downloads\NFAT\System Analysis and Design NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\System Analysis and Design NFAT.pdf
+2025-05-22 22:35:56,604 - INFO - Moved C:\Users\shrey\Downloads\NFAT\TOC MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\TOC MCQ.pdf
+2025-05-22 22:35:56,604 - INFO - Moved C:\Users\shrey\Downloads\NFAT\TOC nfat.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\TOC nfat.pdf
+2025-05-22 22:35:56,607 - INFO - Moved C:\Users\shrey\Downloads\NFAT\web development technologies MCQ.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\web development technologies MCQ.pdf
+2025-05-22 22:35:56,607 - INFO - Moved C:\Users\shrey\Downloads\NFAT\Web Development Technology NFAT.pdf to C:\Users\shrey\Downloads\NFAT\AETH_Documents\Web Development Technology NFAT.pdf
+2025-05-22 22:40:25,109 - INFO - Loaded folder prefix: AETH_
+2025-05-22 22:40:25,109 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 22:40:25,109 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 22:40:25,109 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 22:40:25,109 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 22:40:25,109 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 22:40:25,109 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 22:40:25,109 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 22:40:25,109 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 22:40:25,109 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 22:40:25,109 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 22:40:45,175 - INFO - Loaded folder prefix: AETH_
+2025-05-22 22:40:45,175 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 22:40:45,175 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 22:40:45,175 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 22:40:45,175 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 22:40:45,175 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 22:40:45,176 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 22:40:45,176 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 22:40:45,176 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 22:40:45,176 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 22:40:45,176 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 22:42:26,516 - INFO - Loaded folder prefix: AETH_
+2025-05-22 22:42:26,516 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 22:42:26,516 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 22:42:26,516 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 22:42:26,516 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 22:42:26,516 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 22:42:26,516 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 22:42:26,516 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 22:42:26,516 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 22:42:26,516 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 22:42:26,516 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 22:42:50,390 - INFO - Source directory set to: C:/Users/shrey/OneDrive/Pictures/project images
+2025-05-22 22:43:27,841 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 22:43:27,860 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\ambient_bg.jpg to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\ambient_bg.jpg
+2025-05-22 22:43:27,860 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\billing_statement.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\billing_statement.png
+2025-05-22 22:43:27,860 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\bridge.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\bridge.png
+2025-05-22 22:43:27,860 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\clipboard.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\clipboard.png
+2025-05-22 22:43:27,860 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\creator_for_job_listing_page.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\creator_for_job_listing_page.png
+2025-05-22 22:43:27,860 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\dashboard.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\dashboard.png
+2025-05-22 22:43:27,860 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\download.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\download.png
+2025-05-22 22:43:27,871 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\FrameFramemain_logo_var_2.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\FrameFramemain_logo_var_2.png
+2025-05-22 22:43:27,871 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\Framemain_logo_var_1.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\Framemain_logo_var_1.png
+2025-05-22 22:43:27,871 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\go_back_to_home.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\go_back_to_home.png
+2025-05-22 22:43:27,871 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\go_to_previous_page.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\go_to_previous_page.png
+2025-05-22 22:43:27,871 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\half_rate_star.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\half_rate_star.png
+2025-05-22 22:43:27,871 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\handshake.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\handshake.png
+2025-05-22 22:43:27,871 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\job_listing.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\job_listing.png
+2025-05-22 22:43:27,871 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\login.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\login.png
+2025-05-22 22:43:27,881 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\logout.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\logout.png
+2025-05-22 22:43:27,881 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\post_a_job.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\post_a_job.png
+2025-05-22 22:43:27,881 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\print.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\print.png
+2025-05-22 22:43:27,881 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\profile.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\profile.png
+2025-05-22 22:43:27,886 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\rate_star.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\rate_star.png
+2025-05-22 22:43:27,886 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\register.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\register.png
+2025-05-22 22:43:27,886 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\report_and_analytics.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\report_and_analytics.png
+2025-05-22 22:43:27,886 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\report_user.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\report_user.png
+2025-05-22 22:43:27,892 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\rupees.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\rupees.png
+2025-05-22 22:43:27,892 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\transaction.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\transaction.png
+2025-05-22 22:43:27,892 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\uni_bg.jpg to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\uni_bg.jpg
+2025-05-22 22:43:27,892 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\username_available.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\username_available.png
+2025-05-22 22:43:27,892 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\username_not_available.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\username_not_available.png
+2025-05-22 22:43:27,892 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\wallet.png to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\wallet.png
+2025-05-22 22:43:27,892 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\project images\work.jpg to C:\Users\shrey\OneDrive\Pictures\project images\AETH_Images\work.jpg
+2025-05-22 22:46:20,930 - INFO - Loaded folder prefix: AETH_
+2025-05-22 22:46:20,930 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 22:46:20,930 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 22:46:20,930 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 22:46:20,930 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 22:46:20,930 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 22:46:20,930 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 22:46:20,930 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 22:46:20,930 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 22:46:20,930 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 22:46:20,931 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 22:48:31,680 - INFO - Loaded folder prefix: AETH_
+2025-05-22 22:48:31,686 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 22:48:31,686 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 22:48:31,686 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 22:48:31,686 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 22:48:31,686 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 22:48:31,686 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 22:48:31,686 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 22:48:31,686 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 22:48:31,686 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 22:48:31,686 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 22:51:22,892 - INFO - Loaded folder prefix: AETH_
+2025-05-22 22:51:22,892 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 22:51:22,892 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 22:51:22,892 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 22:51:22,892 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 22:51:22,892 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 22:51:22,892 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 22:51:22,892 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 22:51:22,892 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 22:51:22,892 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 22:51:22,901 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 23:01:14,001 - INFO - Loaded folder prefix: AETH_
+2025-05-22 23:01:14,001 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 23:01:14,001 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 23:01:14,001 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 23:01:14,001 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 23:01:14,001 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 23:01:14,003 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 23:01:14,003 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 23:01:14,003 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 23:01:14,003 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 23:01:14,003 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 23:01:23,794 - INFO - Saved config to config.json
+2025-05-22 23:03:02,605 - INFO - Loaded folder prefix: AETH_
+2025-05-22 23:03:02,607 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 23:03:02,607 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 23:03:02,607 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 23:03:02,607 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 23:03:02,608 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 23:03:02,608 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 23:03:02,608 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 23:03:02,608 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 23:03:02,608 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 23:03:02,608 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 23:03:06,894 - INFO - Source directory set to: C:\Users\shrey\OneDrive\Pictures\BIKES
+2025-05-22 23:03:24,177 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 23:03:24,187 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_1.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_1.jpg
+2025-05-22 23:03:24,190 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_2.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_2.jpg
+2025-05-22 23:03:24,192 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_3.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_3.jpg
+2025-05-22 23:03:24,193 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_4.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_4.jpg
+2025-05-22 23:03:24,195 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_5.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_5.jpg
+2025-05-22 23:03:24,198 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_6.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_6.jpg
+2025-05-22 23:03:24,199 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_1.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_1.jpg
+2025-05-22 23:03:24,201 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_2.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_2.jpg
+2025-05-22 23:03:24,202 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_3.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_3.jpg
+2025-05-22 23:03:24,204 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_4.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_4.jpg
+2025-05-22 23:03:24,204 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_5.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_5.jpg
+2025-05-22 23:03:24,207 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_6.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_6.jpg
+2025-05-22 23:03:24,208 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_1.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_1.jpg
+2025-05-22 23:03:24,210 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_2.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_2.jpg
+2025-05-22 23:03:24,210 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_3.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_3.jpg
+2025-05-22 23:03:24,210 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_4.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_4.jpg
+2025-05-22 23:03:24,210 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_5.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_5.jpg
+2025-05-22 23:03:24,215 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_6.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_6.jpg
+2025-05-22 23:03:24,217 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_1.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_1.jpg
+2025-05-22 23:03:24,217 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_2.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_2.jpg
+2025-05-22 23:03:24,220 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_3.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_3.jpg
+2025-05-22 23:03:24,221 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_4.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_4.jpg
+2025-05-22 23:03:24,223 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_5.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_5.jpg
+2025-05-22 23:03:24,224 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_6.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_6.jpg
+2025-05-22 23:03:26,237 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 23:03:28,247 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 23:07:06,543 - INFO - Loaded folder prefix: AETH_
+2025-05-22 23:07:06,547 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 23:07:06,547 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 23:07:06,547 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 23:07:06,547 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 23:07:06,547 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 23:07:06,547 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 23:07:06,547 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 23:07:06,547 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 23:07:06,547 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 23:07:06,547 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 23:07:06,549 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:09,314 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:09,754 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:10,081 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:33,924 - INFO - Source directory set to: C:\Users\shrey\OneDrive\Pictures\BIKES
+2025-05-22 23:07:34,931 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:36,115 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:37,167 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:38,513 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:39,169 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:39,343 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:39,404 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:39,527 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:39,649 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:40,608 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:42,540 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:42,714 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:47,041 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 23:07:47,045 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_1.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_1.jpg
+2025-05-22 23:07:47,045 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_2.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_2.jpg
+2025-05-22 23:07:47,045 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_3.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_3.jpg
+2025-05-22 23:07:47,045 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_4.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_4.jpg
+2025-05-22 23:07:47,050 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_5.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_5.jpg
+2025-05-22 23:07:47,059 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike1_6.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike1_6.jpg
+2025-05-22 23:07:47,063 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_1.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_1.jpg
+2025-05-22 23:07:47,063 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_2.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_2.jpg
+2025-05-22 23:07:47,063 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_3.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_3.jpg
+2025-05-22 23:07:47,063 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_4.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_4.jpg
+2025-05-22 23:07:47,069 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_5.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_5.jpg
+2025-05-22 23:07:47,071 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike2_6.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike2_6.jpg
+2025-05-22 23:07:47,072 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_1.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_1.jpg
+2025-05-22 23:07:47,074 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_2.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_2.jpg
+2025-05-22 23:07:47,076 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_3.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_3.jpg
+2025-05-22 23:07:47,078 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_4.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_4.jpg
+2025-05-22 23:07:47,078 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_5.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_5.jpg
+2025-05-22 23:07:47,078 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike3_6.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike3_6.jpg
+2025-05-22 23:07:47,078 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_1.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_1.jpg
+2025-05-22 23:07:47,083 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_2.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_2.jpg
+2025-05-22 23:07:47,084 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_3.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_3.jpg
+2025-05-22 23:07:47,086 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_4.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_4.jpg
+2025-05-22 23:07:47,086 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_5.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_5.jpg
+2025-05-22 23:07:47,086 - INFO - Moved C:\Users\shrey\OneDrive\Pictures\BIKES\bike4_6.jpg to C:\Users\shrey\OneDrive\Pictures\BIKES\AETH_Images\bike4_6.jpg
+2025-05-22 23:07:47,086 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:49,097 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:50,443 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:50,657 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:51,958 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:07:53,249 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:35,305 - INFO - Loaded folder prefix: AETH_
+2025-05-22 23:09:35,305 - INFO - Added filter: ByExtension_.jpg_.png_.gif -> AETH_Images
+2025-05-22 23:09:35,305 - INFO - Loaded filter: ExtensionFilter -> Images
+2025-05-22 23:09:35,305 - INFO - Added filter: ByExtension_.pdf_.doc_.docx_.txt -> AETH_Documents
+2025-05-22 23:09:35,305 - INFO - Loaded filter: ExtensionFilter -> Documents
+2025-05-22 23:09:35,305 - INFO - Added filter: LargeFiles -> AETH_LargeFiles
+2025-05-22 23:09:35,305 - INFO - Loaded filter: SizeFilter -> LargeFiles
+2025-05-22 23:09:35,305 - INFO - Added filter: RecentFiles -> AETH_RecentFiles
+2025-05-22 23:09:35,305 - INFO - Loaded filter: DateFilter -> RecentFiles
+2025-05-22 23:09:35,305 - INFO - Added filter: Custom -> AETH_Backups
+2025-05-22 23:09:35,305 - INFO - Loaded filter: CustomRegexFilter -> Backups
+2025-05-22 23:09:35,305 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:37,402 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:37,781 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:38,173 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:38,614 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:39,105 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:39,667 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:40,218 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:40,433 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:40,546 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:40,816 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:41,453 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'
+2025-05-22 23:09:42,158 - WARNING - Failed to resize terminal: module 'curses' has no attribute 'resizeterm'

@@ -1,0 +1,43 @@
+{
+  "filters": [
+    {
+      "destination": "Images",
+      "type": "ExtensionFilter",
+      "extensions": [
+        ".jpg",
+        ".png",
+        ".gif"
+      ]
+    },
+    {
+      "destination": "Documents",
+      "type": "ExtensionFilter",
+      "extensions": [
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".txt"
+      ]
+    },
+    {
+      "destination": "LargeFiles",
+      "type": "SizeFilter",
+      "min_size_mb": 10.0
+    },
+    {
+      "destination": "RecentFiles",
+      "type": "DateFilter",
+      "days_ago": 7
+    },
+    {
+      "destination": "Backups",
+      "type": "CustomRegexFilter",
+      "pattern": ".*\\.bak$"
+    }
+  ],
+  "settings": {
+    "recursive": false,
+    "overwrite_existing": false,
+    "folder_prefix": "AETH_"
+  }
+}
